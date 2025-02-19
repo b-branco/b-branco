@@ -1,4 +1,4 @@
-## Hello!
+## Hello! 🦇
 
 I’m a PhD student investigating the application of machine learning in large datasets to predict the heterogeneity of depression across the life course. Previously a Technical Writer at Microsoft and Documentation & Deployment Engineer at Imagination Technologies.
 
